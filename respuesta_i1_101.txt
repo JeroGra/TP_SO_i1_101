@@ -17,3 +17,5 @@ Si.
 
 d)¿De qué forma se comunicaron ustedes?
 Nos comunicamos por medio de discord y el project.
+
+e)Siendo bastantes claros con descripción en los commits/proyect.
